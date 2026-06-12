@@ -16,22 +16,22 @@ It also provides **optional caching of introspection responses** to reduce load 
 - Optional **introspection caching**
 - Cache TTL automatically respecting token expiration (`exp`)
 - Custom Laravel **Guard**
-- Works with **Laravel 10, 11 and 12**
+- Works with **Laravel 10, 11, 12 and 13**
 
 ---
 
 ## Requirements
 
 - PHP 8.2+
-- Laravel 10 / 11 / 12
+- Laravel 10 / 11 / 12 / 13
 - Keycloak server with OAuth2 / OpenID Connect enabled
 - Keycloak realm public key available to the application
 
 ## Version Compatibility
 
-| Package Version | Laravel 10 | Laravel 11 | Laravel 12 |
-|-----------------|------------|------------|------------|
-| `v1.0`          | ✅          | ✅          | ✅          |
+| Package Version | Laravel 10 | Laravel 11 | Laravel 12 | Laravel 13 |
+|-----------------|------------|------------|------------|------------|
+| `v1.0`          | ✅          | ✅          | ✅          | ✅          |
 
 ---
 
