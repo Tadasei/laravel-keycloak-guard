@@ -1,9 +1,9 @@
 {
-    "name": "leandrose/laravel-keycloak-guard",
-    "description": "A Laravel authentication guard for Keycloak OAuth2 resource servers with token introspection and optional caching support.",
+    "name": "tadasei/laravel-keycloak-guard",
+    "description": "My fork of leandrose/laravel-keycloak-guard.",
     "license": "MIT",
     "type": "library",
-    "homepage": "https://github.com/leandrose/laravel-keycloak-guard",
+    "homepage": "https://github.com/Tadasei/laravel-keycloak-guard",
     "keywords": [
         "laravel",
         "keycloak",
@@ -16,8 +16,8 @@
     ],
     "authors": [
         {
-            "name": "leandrose",
-            "email": "ltsujiguchi@gmail.com"
+            "name": "Tadasei",
+            "email": "chemselhak.mahouche@gmail.com"
         }
     ],
     "minimum-stability": "stable",
